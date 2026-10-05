@@ -1,0 +1,64 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Camera Viewfinder Corner Reticles -->
+    <!-- Top-Left -->
+    <path
+        android:strokeColor="#FAF7F0"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M 30,42 L 30,34 Q 30,30 34,30 L 42,30" />
+
+    <!-- Top-Right -->
+    <path
+        android:strokeColor="#FAF7F0"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M 66,30 L 74,30 Q 78,30 78,34 L 78,42" />
+
+    <!-- Bottom-Left -->
+    <path
+        android:strokeColor="#FAF7F0"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M 30,66 L 30,74 Q 30,78 34,78 L 42,78" />
+
+    <!-- Bottom-Right -->
+    <path
+        android:strokeColor="#FAF7F0"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M 66,78 L 74,78 Q 78,78 78,74 L 78,66" />
+
+    <!-- Central Leaf Outline -->
+    <path
+        android:strokeColor="#FAF7F0"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M 54,32 C 43,32 37,42 37,53 C 37,64 47,73 54,76 C 61,73 71,64 71,53 C 71,42 65,32 54,32 Z" />
+
+    <!-- Leaf Midrib Central Vein -->
+    <path
+        android:strokeColor="#FAF7F0"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 54,37 L 54,71" />
+
+    <!-- Amber / Kunyit Center Dot -->
+    <path
+        android:fillColor="#F2B93B"
+        android:pathData="M 54,49 A 5,5 0 1,1 54,59 A 5,5 0 1,1 54,49" />
+</vector>

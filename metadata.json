@@ -1,0 +1,6 @@
+{
+  "name": "TomatScan",
+  "description": "Aplikasi deteksi penyakit daun tomat berbasis citra dengan ekstraksi fitur GLCM dan momen warna serta klasifikasi SVM lokal 100% offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
